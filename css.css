@@ -12,7 +12,7 @@ h2,p,hr {
     writing-mode: sideways-rl;
 }
 
-h2 #title-link{
+h2 > #title-link{
     color: white;
     text-decoration: none;
 }
