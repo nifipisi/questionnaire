@@ -12,6 +12,11 @@ h2,p,hr {
     writing-mode: sideways-rl;
 }
 
+#title-link{
+    color: white;
+    text-decoration: none;
+}
+
 #intro-text{
     margin-top: 30px;
     margin-bottom: 50px;
