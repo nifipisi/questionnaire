@@ -4,7 +4,7 @@ body {
     cursor : normal;
 }
 
-h2,p,hr {
+p,hr {
     margin-left : 10%;
     margin-right: 10%;
 }
@@ -98,7 +98,7 @@ h2,p,hr {
 
 
 @media only screen and (max-width: 360px) {
-    h2,p {
+    p {
         margin-left : 10%;
         margin-right: 10%;
     }
@@ -115,7 +115,7 @@ h2,p,hr {
         font-size: 24px;
         line-height: 36px;
     }
-    h2{
+    #title{
         font-size: 60px;
     }
     .uppy-Dashboard-close {
