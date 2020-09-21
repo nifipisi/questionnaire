@@ -8,7 +8,7 @@ h2,p,hr {
     margin-right: 10%;
 }
 
-#titleLink{
+#titleLink, #faqLink{
     color: white;
     text-decoration: none;
 }
