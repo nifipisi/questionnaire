@@ -8,10 +8,6 @@ h2,p,hr {
     margin-right: 10%;
 }
 
-#title{
-    writing-mode: sideways-rl;
-}
-
 #titleLink{
     color: white;
     text-decoration: none;
