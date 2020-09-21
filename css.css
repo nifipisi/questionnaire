@@ -1,6 +1,7 @@
 body {
     background : #0074d9;
     color: white;
+    cursor : normal;
 }
 
 h2,p,hr {
@@ -8,9 +9,13 @@ h2,p,hr {
     margin-right: 10%;
 }
 
-#titleLink,#faqLink{
+#titleLink{
     color: white;
     text-decoration: none;
+}
+
+#faqLink{
+    color: white;
 }
 
 #intro-text{
