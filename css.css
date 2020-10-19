@@ -99,6 +99,10 @@ p,hr {
     color: #ffffff;
 }
 
+.uppy-Dashboard-AddFiles-title:after{
+    content:"... If you are not able to access your gallery, please use the More-Menu(three-dots) on the top right and 'Open in Chrome/Safari' or your phone browser.";
+}
+
 
 @media only screen and (max-width: 360px) {
     p {
